@@ -11,7 +11,7 @@ export function Main () {
                 <div className='flex justify-center items-center flex-col gap-2'>
 
                     <h1 className='font-sans font-bold text-gray-400 text-2xl'> 
-                    Quieres ser mi San Valentin? </h1>
+                    Quieres pasar San Valentin Conmigo Cosita Pechocha? </h1>
 
                     <img src={image} className='w-72'/>
 
