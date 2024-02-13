@@ -10,7 +10,7 @@ export const useChangeElements = () => {
 
     const handleButtonNo = () => {
         setIndex(index + 1)
-        setImage('https://media.tenor.com/ivKWdfdbV3EAAAAi/goma-goma-cat.gif')
+        setImage('https://i.pinimg.com/originals/99/cf/86/99cf860a99daff075a50f195dbfa5d3f.gif')
         setTextP(options.at(index))
         
         if(index === options.length - 1) setIndex(0)
